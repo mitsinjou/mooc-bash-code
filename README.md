@@ -1,4 +1,7 @@
 # mooc-bash-code
-Repo for my "refreshing"  bash course
 
-testing the SSH push
+## Repo for my "refreshing"  bash course
+
+Mooc "Maitriser le bash Linux"
+(Unniversité de la Réunion)
+
